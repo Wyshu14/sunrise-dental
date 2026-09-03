@@ -1,0 +1,10 @@
+target/
+out/
+out-test/
+out-junit/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
