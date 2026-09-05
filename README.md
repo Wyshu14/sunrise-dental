@@ -113,3 +113,7 @@ src/test/java/com/sunrisedental/
 docs/
   test-plan.md, dev-notes.md
 ```
+
+## MySQL Verification Update (05 Sep 2026)
+
+This has since been verified for real: MySQL 8 was installed locally, the schema and seed data were loaded via MySQL Workbench, and both ApiServerApp and ConsoleClientApp were run successfully end-to-end against it (a real appointment registered, a bill generated, a revenue report produced). See the project report, Section 9 ("Evidence the System Runs"), for the unedited screenshot.
